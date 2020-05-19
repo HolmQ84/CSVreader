@@ -1,11 +1,21 @@
-Titel,Årstal,IMDB-score,Instruktør,Skuespillere
-John Carter ,2012,6.6,Andrew Stanton,Samantha Morton & Daryl Sabara & Polly Walker
-Pirates of the Caribbean: On Stranger Tides ,2011,6.7,Rob Marshall,Sam Claflin & Johnny Depp & Stephen Graham
-Snow White and the Huntsman ,2012,6.1,Rupert Sanders,Kristen Stewart & Chris Hemsworth & Sam Claflin
-Maleficent ,2014,7.0,Robert Stromberg,Sharlto Copley & Angelina Jolie Pitt & Sam Riley
-Stealth ,2005,5.0,Rob Cohen,Joe Morton & Sam Shepard & Richard Roxburgh
-The Huntsman: Winter's War ,2016,6.1,Cedric Nicolas-Troyan,Sam Claflin & Chris Hemsworth & Charlize Theron
-Black Hawk Down ,2001,7.7,Ridley Scott,Sam Shepard & Ioan Gruffudd & Ewen Bremner
-Safe House ,2012,6.8,Daniel Espinosa,Ryan Reynolds & Denzel Washington & Sam Shepard
-Flubber ,1997,5.2,Les Mayfield,Jodi Benson & Robin Williams & Sam Lloyd
-Swordfish ,2001,6.5,Dominic Sena,Don Cheadle & Hugh Jackman & Sam Shepard
+Titel;Årstal;IMDB-score;Instruktør;Skuespillere
+Spider-Man 3 ;2007;6.2;Sam Raimi;James Franco & J.K. Simmons & Kirsten Dunst
+The Hobbit: The Battle of the Five Armies ;2014;7.5;Peter Jackson;Adam Brown & Aidan Turner & James Nesbitt
+The Hobbit: The Desolation of Smaug ;2013;7.9;Peter Jackson;Adam Brown & Aidan Turner & James Nesbitt
+Spider-Man 2 ;2004;7.3;Sam Raimi;James Franco & J.K. Simmons & Kirsten Dunst
+Oz the Great and Powerful ;2013;6.4;Sam Raimi;Mila Kunis & Tim Holmes & James Franco
+TRON: Legacy ;2010;6.8;Joseph Kosinski;Olivia Wilde & Jeff Bridges & James Frain
+2012 ;2009;5.8;Roland Emmerich;Liam James & Oliver Platt & Tom McCarthy
+The Hobbit: An Unexpected Journey ;2012;7.9;Peter Jackson;Adam Brown & Aidan Turner & James Nesbitt
+Bolt ;2008;6.9;Byron Howard;Diedrich Bader & Chloë Grace Moretz & James Lipton
+Wrath of the Titans ;2012;5.8;Jonathan Liebesman;Edgar Ramírez & Liam Neeson & Lily James
+Spider-Man ;2002;7.3;Sam Raimi;James Franco & J.K. Simmons & Kirsten Dunst
+Master and Commander: The Far Side of the World ;2003;7.4;Peter Weir;Lee Ingleby & James D'Arcy & David Threlfall
+Monsters Inc.;2001;8.1;Pete Docter;John Ratzenberger & Steve Buscemi & James Coburn
+Insurgent ;2015;6.3;Robert Schwentke;Theo James & Kate Winslet & Mekhi Phifer
+Gulliver's Travels ;2010;4.9;Rob Letterman;Catherine Tate & James Corden & Olly Alexander
+Allegiant ;2016;5.8;Robert Schwentke;Theo James & Naomi Watts & Zoë Kravitz
+Eraser ;1996;6.1;Chuck Russell;James Coburn & Vanessa Williams & Roma Maffia
+Cinderella ;2015;7.0;Kenneth Branagh;Derek Jacobi & Hayley Atwell & Lily James
+Rise of the Planet of the Apes ;2011;7.6;Rupert Wyatt;David Oyelowo & James Franco & Tyler Labine
+Divergent ;2014;6.7;Neil Burger;Theo James & Kate Winslet & Mekhi Phifer
